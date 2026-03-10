@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2026-03-10",
+        "mood": "Happy",
+        "stress": 3,
+        "note": "Good"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Neutral",
+        "stress": 5,
+        "note": "Bore"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Stressed",
+        "stress": 0,
+        "note": "Cooked"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Sad",
+        "stress": 2,
+        "note": "not well"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Happy",
+        "stress": 3,
+        "note": "Goood"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Sad",
+        "stress": 1,
+        "note": "Failed"
+    },
+    {
+        "date": "2026-03-10",
+        "mood": "Happy",
+        "stress": 4,
+        "note": "NIce"
+    }
+]
